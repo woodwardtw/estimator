@@ -1,0 +1,26 @@
+body {
+    margin: 20px;
+}
+
+textarea {
+    font-size: 1.4rem;
+}
+
+button {
+    position: fixed;
+    top: 10px; 
+    right: 10px;
+    font-size: 2rem;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+}
+
+button:hover {
+    background-color: #424242;
+    cursor: pointer;
+}
+
+p {
+    font-size: 1.4rem;
+}
